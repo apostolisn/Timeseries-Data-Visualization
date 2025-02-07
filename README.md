@@ -20,11 +20,11 @@ This project is a time series data visualization tool built with Vue.js. It allo
    
 3. Install dependencies:
    ```sh
-     npm install
+   npm install
 
 4. Run the development server:
    ```sh
-     npm run dev
+   npm run dev
 
 5. Open your browser and visit http://localhost:5173 (or whatever port Vite assigns).
 

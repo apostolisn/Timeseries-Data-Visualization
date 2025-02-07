@@ -15,13 +15,16 @@ This project is a time series data visualization tool built with Vue.js. It allo
    git clone https://github.com/your-username/Timeseries-Data-Visualization.git
 
 2. Navigate to the project folder:
+    ```sh
    cd Timeseries-Data-Visualization
    
 3. Install dependencies:
-  npm install
+   ```sh
+     npm install
 
 4. Run the development server:
-  npm run dev
+   ```sh
+     npm run dev
 
 5. Open your browser and visit http://localhost:5173 (or whatever port Vite assigns).
 
